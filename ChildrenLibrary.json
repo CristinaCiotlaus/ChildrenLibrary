@@ -1,224 +1,223 @@
 {
-  "Books": [
-
-        {
-          "id": 1,
-          "title": "Harry Potter and the Sorcerer's Stone",
-          "author": "J.K. Rowling",
-          "year_of_publishing": 1997,
-          "page_number": 320,
-          "genre": "Fantasy",
-          "languages_translated": 79,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 2,
-          "title": "The Cat in the Hat",
-          "author": "Dr. Seuss",
-          "year_of_publishing": 1957,
-          "page_number": 61,
-          "genre": "Children's Literature, Rhyme",
-          "languages_translated": 15,
-          "age_group_recommendation": "4-8 years"
-        },
-        {
-          "id": 3,
-          "title": "Charlotte's Web",
-          "author": "E.B. White",
-          "year_of_publishing": 1952,
-          "page_number": 192,
-          "genre": "Children's Literature, Fiction",
-          "languages_translated": 40,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 4,
-          "title": "Goodnight Moon",
-          "author": "Margaret Wise Brown",
-          "year_of_publishing": 1947,
-          "page_number": 30,
-          "genre": "Children's Literature, Bedtime Story",
-          "languages_translated": 20,
-          "age_group_recommendation": "0-3 years"
-        },
-        {
-          "id": 5,
-          "title": "The Very Hungry Caterpillar",
-          "author": "Eric Carle",
-          "year_of_publishing": 1969,
-          "page_number": 26,
-          "genre": "Children's Literature, Picture Book",
-          "languages_translated": 66,
-          "age_group_recommendation": "3-6 years"
-        },
-        {
-          "id": 6,
-          "title": "Green Eggs and Ham",
-          "author": "Dr. Seuss",
-          "year_of_publishing": 1960,
-          "page_number": 62,
-          "genre": "Children's Literature, Rhyme",
-          "languages_translated": 25,
-          "age_group_recommendation": "4-8 years"
-        },
-        {
-          "id": 7,
-          "title": "Where the Wild Things Are",
-          "author": "Maurice Sendak",
-          "year_of_publishing": 1963,
-          "page_number": 48,
-          "genre": "Children's Literature, Fantasy",
-          "languages_translated": 39,
-          "age_group_recommendation": "4-8 years"
-        },
-        {
-          "id": 8,
-          "title": "The Giving Tree",
-          "author": "Shel Silverstein",
-          "year_of_publishing": 1964,
-          "page_number": 64,
-          "genre": "Children's Literature, Picture Book",
-          "languages_translated": 40,
-          "age_group_recommendation": "4-8 years"
-        },
-        {
-          "id": 9,
-          "title": "Oh, the Places You'll Go!",
-          "author": "Dr. Seuss",
-          "year_of_publishing": 1990,
-          "page_number": 56,
-          "genre": "Children's Literature, Rhyme",
-          "languages_translated": 30,
-          "age_group_recommendation": "4-8 years"
-        },
-        {
-          "id": 10,
-          "title": "The Chronicles of Narnia (the Series)",
-          "author": "C.S. Lewis",
-          "year_of_publishing": "1950-1956",
-          "page_number": "Approximately 206",
-          "genre": "Fantasy",
-          "languages_translated": 47,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 11,
-          "title": "Matilda",
-          "author": "Roald Dahl",
-          "year_of_publishing": 1988,
-          "page_number": 240,
-          "genre": "Children's Literature, Fiction",
-          "languages_translated": 58,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 12,
-          "title": "The Secret Garden",
-          "author": "Frances Hodgson Burnett",
-          "year_of_publishing": 1911,
-          "page_number": 331,
-          "genre": "Children's Literature, Fiction",
-          "languages_translated": 41,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 13,
-          "title": "The Lion, the Witch and the Wardrobe",
-          "author": "C.S. Lewis",
-          "year_of_publishing": 1950,
-          "page_number": 206,
-          "genre": "Fantasy",
-          "languages_translated": 47,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 14,
-          "title": "Alice's Adventures in Wonderland",
-          "author": "Lewis Carroll",
-          "year_of_publishing": 1865,
-          "page_number": 200,
-          "genre": "Children's Literature, Fantasy",
-          "languages_translated": 174,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 15,
-          "title": "The Gruffalo",
-          "author": "Julia Donaldson",
-          "year_of_publishing": 1999,
-          "page_number": 32,
-          "genre": "Children's Literature, Picture Book",
-          "languages_translated": 78,
-          "age_group_recommendation": "3-6 years"
-        },
-        {
-          "id": 16,
-          "title": "The Polar Express",
-          "author": "Chris Van Allsburg",
-          "year_of_publishing": 1985,
-          "page_number": 32,
-          "genre": "Children's Literature, Christmas",
-          "languages_translated": 20,
-          "age_group_recommendation": "4-8 years"
-        },
-        {
-          "id": 17,
-          "title": "The Velveteen Rabbit",
-          "author": "Margery Williams",
-          "year_of_publishing": 1922,
-          "page_number": 40,
-          "genre": "Children's Literature, Fiction",
-          "languages_translated": 45,
-          "age_group_recommendation": "4-8 years"
-        },
-        {
-          "id": 18,
-          "title": "The Little Prince",
-          "author": "Antoine de Saint-Exupéry",
-          "year_of_publishing": 1943,
-          "page_number": 96,
-          "genre": "Children's Literature, Fantasy",
-          "languages_translated": 300,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 19,
-          "title": "A Wrinkle in Time",
-          "author": "Madeleine L'Engle",
-          "year_of_publishing": 1962,
-          "page_number": 256,
-          "genre": "Children's Literature, Science Fiction",
-          "languages_translated": 35,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 20,
-          "title": "Charlie and the Chocolate Factory",
-          "author": "Roald Dahl",
-          "year_of_publishing": 1964,
-          "page_number": 192,
-          "genre": "Children's Literature, Fiction",
-          "languages_translated": 55,
-          "age_group_recommendation": "8-12 years"
-        },
-        {
-          "id": 21,
-          "title": "Wonder",
-          "author": "R.J. Palacio",
-          "year_of_publishing": 2012,
-          "page_number": 320,
-          "genre": "Children's Literature, Fiction",
-          "languages_translated": 45,
-          "age_group_recommendation": "8-12 years"
-        },
-      {
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "year_of_publishing": 1997,
+      "page_number": 223,
+      "genre": "Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "9-12 years"
+    },
+    {
+      "id": 2,
+      "title": "Fairy Tales",
+      "author": "Hans Christian Andersen",
+      "year_of_publishing": 1835,
+      "page_number": 278,
+      "genre": "Children's Literature, Fairy Tale",
+      "original_language": "Danish",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 3,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "year_of_publishing": "1950-1956 (Series)",
+      "page_number": "Varies per book",
+      "genre": "Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 4,
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "year_of_publishing": 1952,
+      "page_number": 184,
+      "genre": "Children's Literature, Fiction",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 5,
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "year_of_publishing": 1993,
+      "page_number": 179,
+      "genre": "Young Adult, Dystopian",
+      "original_language": "English",
+      "age_group_recommendation": "12+ years"
+    },
+    {
+      "id": 6,
+      "title": "Green Eggs and Ham",
+      "author": "Dr. Seuss",
+      "year_of_publishing": 1960,
+      "page_number": 62,
+      "genre": "Children's Literature, Rhyme",
+      "original_language": "English",
+      "age_group_recommendation": "4-8 years"
+    },
+    {
+      "id": 7,
+      "title": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "year_of_publishing": 1957,
+      "page_number": 61,
+      "genre": "Children's Literature, Rhyme",
+      "original_language": "English",
+      "age_group_recommendation": "4-8 years"
+    },
+    {
+      "id": 8,
+      "title": "Goodnight Moon",
+      "author": "Margaret Wise Brown",
+      "year_of_publishing": 1947,
+      "page_number": 30,
+      "genre": "Children's Literature, Bedtime Story",
+      "original_language": "English",
+      "age_group_recommendation": "0-3 years"
+    },
+    {
+      "id": 9,
+      "title": "Oh, the Places You'll Go!",
+      "author": "Dr. Seuss",
+      "year_of_publishing": 1990,
+      "page_number": 56,
+      "genre": "Children's Literature, Rhyme",
+      "original_language": "English",
+      "age_group_recommendation": "4-8 years"
+    },
+    {
+      "id": 10,
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "year_of_publishing": 1963,
+      "page_number": 37,
+      "genre": "Children's Literature, Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "4-8 years"
+    },
+    {
+      "id": 11,
+      "title": "The Giving Tree",
+      "author": "Shel Silverstein",
+      "year_of_publishing": 1964,
+      "page_number": 64,
+      "genre": "Children's Literature",
+      "original_language": "English",
+      "age_group_recommendation": "4-8 years"
+    },
+    {
+      "id": 12,
+      "title": "Matilda",
+      "author": "Roald Dahl",
+      "year_of_publishing": 1988,
+      "page_number": 240,
+      "genre": "Children's Literature, Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 13,
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "year_of_publishing": 1969,
+      "page_number": 26,
+      "genre": "Children's Literature",
+      "original_language": "English",
+      "age_group_recommendation": "0-3 years"
+    },
+    {
+      "id": 14,
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "year_of_publishing": 1865,
+      "page_number": 200,
+      "genre": "Children's Literature, Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 15,
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "year_of_publishing": 1911,
+      "page_number": 331,
+      "genre": "Children's Literature",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 16,
+      "title": "The Polar Express",
+      "author": "Chris Van Allsburg",
+      "year_of_publishing": 1985,
+      "page_number": 32,
+      "genre": "Children's Literature, Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "4-8 years"
+    },
+    {
+      "id": 17,
+      "title": "Where the Sidewalk Ends",
+      "author": "Shel Silverstein",
+      "year_of_publishing": 1974,
+      "page_number": 176,
+      "genre": "Children's Poetry",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 18,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "year_of_publishing": 1998,
+      "page_number": 341,
+      "genre": "Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "9-12 years"
+    },
+    {
+      "id": 19,
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "year_of_publishing": 1962,
+      "page_number": 211,
+      "genre": "Children's Literature, Science Fiction",
+      "original_language": "English",
+      "age_group_recommendation": "9-12 years"
+    },
+    {
+      "id": 20,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year_of_publishing": 1937,
+      "page_number": 310,
+      "genre": "Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "9-12 years"
+    },
+    {
+      "id": 21,
+      "title": "Wonder",
+      "author": "R.J. Palacio",
+      "year_of_publishing": 2012,
+      "page_number": 315,
+      "genre": "Children's Literature",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
       "id": 22,
       "title": "The Fault in Our Stars",
       "author": "John Green",
       "year_of_publishing": 2012,
       "page_number": 313,
       "genre": "Young Adult, Romance",
-      "languages_translated": 55,
+      "original_language": "English",
       "age_group_recommendation": "13+ years"
     },
     {
@@ -228,17 +227,17 @@
       "year_of_publishing": 2008,
       "page_number": 374,
       "genre": "Young Adult, Dystopian",
-      "languages_translated": 45,
+      "original_language": "English",
       "age_group_recommendation": "13+ years"
     },
     {
       "id": 24,
-      "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
-      "year_of_publishing": 1960,
-      "page_number": 324,
-      "genre": "Classic, Coming-of-Age",
-      "languages_translated": 40,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year_of_publishing": 1979,
+      "page_number": 224,
+      "genre": "Comedy, Science Fiction",
+      "original_language": "English",
       "age_group_recommendation": "13+ years"
     },
     {
@@ -248,8 +247,108 @@
       "year_of_publishing": 2005,
       "page_number": 552,
       "genre": "Young Adult, Historical Fiction",
-      "languages_translated": 47,
+      "original_language": "English",
       "age_group_recommendation": "13+ years"
+    },
+    {
+      "id": 26,
+      "title": "Grimms' Fairy Tales",
+      "author": "The Brothers Grimm",
+      "year_of_publishing": 1812,
+      "page_number": 880,
+      "genre": "Children's Literature, Fairy Tale",
+      "original_language": "German",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 27,
+      "title": "Winnie-The-Pooh",
+      "author": "A. A. Milne",
+      "year_of_publishing": 1926,
+      "page_number": 161,
+      "genre": "Children's Literature",
+      "original_language": "English",
+      "age_group_recommendation": "4-8 years"
+    },
+    {
+      "id": 28,
+      "title": "Black Beauty",
+      "author": "Anna Sewell",
+      "year_of_publishing": 1877,
+      "page_number": 245,
+      "genre": "Children's Literature",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 29,
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "year_of_publishing": 1947,
+      "page_number": 283,
+      "genre": "Autobiography, Diary",
+      "original_language": "Dutch",
+      "age_group_recommendation": "13+ years"
+    },
+    {
+      "id": 30,
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "year_of_publishing": 1843,
+      "page_number": 104,
+      "genre": "Fiction, Ghost Story",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 31,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "year_of_publishing": 1945,
+      "page_number": 112,
+      "genre": "Fiction, Political Satire",
+      "original_language": "English",
+      "age_group_recommendation": "13+ years"
+    },
+    {
+      "id": 32,
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "year_of_publishing": 1911,
+      "page_number": 207,
+      "genre": "Children's Literature, Fantasy",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 33,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_of_publishing": 1813,
+      "page_number": 279,
+      "genre": "Classic, Romance",
+      "original_language": "English",
+      "age_group_recommendation": "13+ years"
+    },
+    {
+      "id": 34,
+      "title": "Ballet Shoes",
+      "author": "Noel Streatfeild",
+      "year_of_publishing": 1936,
+      "page_number": 256,
+      "genre": "Children's Literature",
+      "original_language": "English",
+      "age_group_recommendation": "8-12 years"
+    },
+    {
+      "id": 35,
+      "title": "Around the World in 80 Days",
+      "author": "Jules Verne",
+      "year_of_publishing": 1873,
+      "page_number": 224,
+      "genre": "Adventure",
+      "original_language": "French",
+      "age_group_recommendation": "8-12 years"
     }
   ]
 }
